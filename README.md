@@ -54,7 +54,7 @@ To embark on this quest locally, follow the steps below:
 > cd your-project-folder
 
 2. Drop anchor and clone this repository:
-> git clone https://github.com/Anne-Serine/Workflow-CA.git
+> git clone https://github.com/petternikolai/social-media-client.git
 
 3. Stock up on provisions:
 > npm install
