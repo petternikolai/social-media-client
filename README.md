@@ -1,4 +1,4 @@
-# Quality Workflow Enhancement
+# Workflow Course Assignment
 
 Welcome to Workflow CA, a project dedicated to elevating the quality of existing applications through streamlined development workflows and robust testing methodologies. Our mission is to optimize the development process by incorporating essential tools like ESLint, Prettier, and GitHub Actions, while ensuring comprehensive test coverage with Jest and Cypress.
 
