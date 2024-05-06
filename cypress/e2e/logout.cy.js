@@ -1,4 +1,4 @@
-describe('login function', () => {
+describe('logout function', () => {
   it('Visit the page, log in with valid user credentials and log out', () => {
     cy.visit('https://petternikolai.github.io/social-media-client/')
     cy.wait(1000)
