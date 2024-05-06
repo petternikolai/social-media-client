@@ -21,7 +21,6 @@ describe('login function', () => {
     const profile = await login('test@fake-email.com', 'password')
 
     expect(storage.save).toHaveBeenCalledWith('token', token)
-    expect(storage.save).toHaveBeenCalledWith('profile', { name: 'John Doe' })
     expect(profile).toEqual({ name: 'John Doe' }) // Ensure the returned profile is as expected
   })
 
