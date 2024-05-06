@@ -1,6 +1,6 @@
 describe('login function', () => {
   it('Does not allow login with invalid credentials and shows an error message', () => {
-    cy.visit('https://petternikolai.github.io/social-media-client/')
+    cy.visit('/')
     cy.wait(1000)
     cy.get(
       '#registerForm > div.modal-footer > button.btn-outline-success',
